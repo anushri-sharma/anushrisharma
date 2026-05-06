@@ -12,7 +12,7 @@
   
 <a href="https://codepen.io/https://codepen.io/anushridavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/anushridavv" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anushri-s-41651325b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anushri-s-41651325b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anushri-sharma21//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anushri-s-41651325b/" height="30" width="40" /></a>
 
 <a href="https://kaggle.com/https://www.kaggle.com/anushrisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anushrisha" height="30" width="40" /></a>
 
