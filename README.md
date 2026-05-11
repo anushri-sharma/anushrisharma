@@ -58,7 +58,7 @@
 
 ## ☁️ Cloud & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,GCP,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,linux" />
 </p>
 
 ---
@@ -92,7 +92,7 @@
 # 🔝 Top Contributed Repo
 
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=anushri-sharma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
@@ -101,9 +101,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| Project 1 | Short project description | React, Node.js |
-| Project 2 | Short project description | Python, Flask |
-| Project 3 | Short project description | MERN Stack |
+| Project 1 | Amazon-Web-Scrapping | Python |
+| Project 2 | Automatic-File-Sorter | Python |
+
 
 ---
 
