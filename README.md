@@ -3,8 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushri786&label=Profile%20views&color=0e75b6&style=flat" alt="anushri786" /> </p>
 
-- 🌱 I’m interested in **Software Engineer, Automation Engineer, Cloud Engineer, AI**
 
+# 💫 About Me
+
+- 🌱 I’m interested in **Software Engineer, Automation Engineer, Cloud Engineer, AI**
+- 🔭 I’m currently working on **Implementing Cloud Load Balancing for Compute Engine**
+- 🌱 I’m learning **AI, Cloud & Scalable Systems**
+- 👨‍💻 All of my projects are available on GitHub
+- ⚡ Fun fact: **I love building useful products**
+
+---
 - 📫 How to reach me **anushri741@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -26,5 +34,85 @@
 
 </p>
 
+# 💻 Tech Stack
+
+## 🚀 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,java" />
+</p>
+
+## 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+## ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+</p>
+
+## 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+</p>
+
+## ☁️ Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,GCP,linux" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anushri-sharma&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="180em" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushri-sharma&theme=tokyonight&hide_border=false" height="180em" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushri-sharma&theme=tokyo-night" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anushri-sharma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+---
+
+# 🔝 Top Contributed Repo
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+# ✨ Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| Project 1 | Short project description | React, Node.js |
+| Project 2 | Short project description | Python, Flask |
+| Project 3 | Short project description | MERN Stack |
+
+---
+
+# 🧠 Currently Learning
+
+- Advanced Backend Architecture
+- DevOps & CI/CD
+- AI & Machine Learning
+
+---
 
 
