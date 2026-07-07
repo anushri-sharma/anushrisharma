@@ -1,118 +1,27 @@
-<h1 align="center">Hi 👋, I'm Anushri Sharma</h1>
-<h3 align="center">A passionate Software Engineer from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushri786&label=Profile%20views&color=0e75b6&style=flat" alt="anushri786" /> </p>
+# 💫 About Me:
+Dedicated software engineer with hands-on experience building production systems, automating workflows with Python, and deploying cloud solutions on Google Cloud Platform (GCP). Currently targeting Cloud Engineer, Python Developer, Automation Engineer, and Software Engineering roles at top-tier tech companies.<br><br>Google-certified in IT Automation with Python, AI Essentials, Prompt Engineering & IT Support Professional — with practical skills in scripting, system integration, database design, and cloud computing fundamentals (Google Cloud Computing Foundations). I bring a track record of shipping software that solves real operational problems at scale, developed during my tenure at an Indian Space Research Organisation.<br><br>Technical skills: Python · Google Cloud Platform (GCP) · GIT · SQL · REST APIs · System Integration · Test & Debug · Automation Scripting · Requirements Engineering · Technical Documentation<br><br>I write clean, well-documented code, collaborate effectively across technical and non-technical teams, and thrive on translating complex requirements into reliable, scalable software. If you're hiring for cloud, automation, or backend Python engineering — let's connect.
 
 
-# 💫 About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anushri-sharma21/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@anushri741) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/6703673/anushri-sharma) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@AnushriSharma-j3l) 
 
-- 🌱 I’m interested in **Software Engineer, Automation Engineer, Cloud Engineer, AI**
-- 🔭 I’m currently working on **Implementing Cloud Load Balancing for Compute Engine**
-- 🌱 I’m learning **AI, Cloud & Scalable Systems**
-- 👨‍💻 All of my projects are available on GitHub
-- ⚡ Fun fact: **I love building useful products**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anushri-sharma&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=anushri-sharma&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anushri-sharma&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-- 📫 How to reach me **anushri741@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anushri-sharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://codepen.io/https://codepen.io/anushridavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/anushridavv" height="30" width="40" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anushri-sharma21//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anushri-s-41651325b/" height="30" width="40" /></a>
-
-<a href="https://kaggle.com/https://www.kaggle.com/anushrisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anushrisha" height="30" width="40" /></a>
-
-<a href="https://instagram.com/whynotannuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thats_amor_21" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/https://www.youtube.com/@anushriable/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@anushriable/featured" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/anushri741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/anushri741" height="30" width="40" /></a>
-
-<a href="https://datascienceportfol.io/anushri_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@anushriable/featured" height="30" width="40" /></a>
-
-</p>
-
-# 💻 Tech Stack
-
-## 🚀 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,java" />
-</p>
-
-## 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-</p>
-
-## ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
-</p>
-
-## 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
-</p>
-
-## ☁️ Cloud & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,linux" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anushri-sharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=anushri-sharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anushri-sharma&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="180em" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushri-sharma&theme=tokyonight&hide_border=false" height="180em" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushri-sharma&theme=tokyo-night" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anushri-sharma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
-# 🔝 Top Contributed Repo
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=anushri-sharma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-# ✨ Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| Project 1 | Amazon-Web-Scrapping | Python |
-| Project 2 | Automatic-File-Sorter | Python |
-
-
----
-
-# 🧠 Currently Learning
-
-- Advanced Backend Architecture
-- DevOps & CI/CD
-- AI & Machine Learning
-
----
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
