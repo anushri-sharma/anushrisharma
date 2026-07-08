@@ -37,16 +37,17 @@ Currently: Google Cloud–certified, sharpening cloud infrastructure skills, and
 
 ### 🚀 Projects I'll actually stand behind
 
-**[Smart Resume ATS Checker](#)**
+**[Smart Resume ATS Checker](https://github.com/anushri-sharma/Smart-Resume-ATS-Checker)**
 Python-based applicant tracking tool that parses resumes and returns structured, actionable feedback on formatting and keyword alignment.
 
-**[IoT Telemetry Data Standardizer](#)**
+**[IoT Telemetry Data Standardizer](https://github.com/anushri-sharma/IoT-Telemetry-Data-Standardizer)**
 Python module that ingests telemetry from heterogeneous factory devices and normalizes it into one consistent schema for downstream analysis. Built as a simulated client engagement — labeled honestly as a training project.
 
 **Geo-MGNREGA Geospatial Platform** *(NIRDPR / Govt. of India)*
 Backend infrastructure for India's largest rural employment scheme — automated ingestion and monitoring of geotagged site data at national scale. *(Link if any part of this is public; otherwise describe in your pinned repo's README rather than linking here.)*
 
-> Replace the `#` links above with your actual repo URLs once pinned — a project name with no link is a dead end for anyone reading this.
+**[Amazon Web Scrapping](https://github.com/anushri-sharma/Amazon-Web-Scrapping)**
+Python module that scrape the data from Amazon's website, such as product information, prices, and reviews. This data can then be analyzed or used for various purposes, such as price comparison or market research..
 
 ---
 
