@@ -51,14 +51,21 @@ Python module that scrape the data from Amazon's website, such as product inform
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
-![Anushri's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushri-sharma&show_icons=true&theme=default&hide_border=true&count_private=true)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anushri-sharma&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=anushri-sharma&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anushri-sharma&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushri-sharma&layout=compact&hide_border=true&theme=default)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anushri-sharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Only keep the streak card below if streak-stats.demolab.com shows a real, non-empty streak for your account -->
-![GitHub Streak](https://streak-stats.demolab.com?user=anushri-sharma&theme=default&hide_border=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anushri-sharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
