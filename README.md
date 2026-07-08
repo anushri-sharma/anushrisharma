@@ -52,7 +52,7 @@ Python-based applicant tracking tool that parses resumes and returns structured,
 Python module that ingests telemetry from heterogeneous factory devices and normalizes it into one consistent schema for downstream analysis. Built as a simulated client engagement — labeled honestly as a training project.
 
 **Geo-MGNREGA Geospatial Platform** *(NIRDPR / Govt. of India)*
-Backend infrastructure for India's largest rural employment scheme — automated ingestion and monitoring of geotagged site data at national scale. *(Link if any part of this is public; otherwise describe in your pinned repo's README rather than linking here.)*
+Backend infrastructure for India's largest rural employment scheme — automated ingestion and monitoring of geotagged site data at national scale. 
 
 **[Amazon Web Scrapping](https://github.com/anushri-sharma/Amazon-Web-Scrapping)**
 Python module that scrape the data from Amazon's website, such as product information, prices, and reviews. This data can then be analyzed or used for various purposes, such as price comparison or market research..
