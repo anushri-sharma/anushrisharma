@@ -32,6 +32,10 @@ Currently: Google Cloud–certified, sharpening cloud infrastructure skills, and
 - Google Cloud Computing Foundations & AI Essentials
 - CS50's Introduction to Programming with Python — Harvard University
 - Deloitte Australia — Technology Job Simulation
+- Cisco Python Essentials
+- SQL for Data Science - Simplilearn
+- Google AI Essentials
+- Google Prompt Engineering
 
 ---
 
@@ -50,8 +54,6 @@ Backend infrastructure for India's largest rural employment scheme — automated
 Python module that scrape the data from Amazon's website, such as product information, prices, and reviews. This data can then be analyzed or used for various purposes, such as price comparison or market research..
 
 ---
-
-## 📊 GitHub Activity
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anushri-sharma&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -74,6 +76,6 @@ Python module that scrape the data from Amazon's website, such as product inform
 If you're hiring for backend Python, automation, or cloud engineering roles — or need a freelance hand — I'd like to hear from you.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushri-sharma21/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anushrisharma66@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anushri741@gmail.com)
 
 </div>
