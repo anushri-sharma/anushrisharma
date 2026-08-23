@@ -8,9 +8,9 @@
 
 ### 👋 Hey, I'm Anushri
 
-I build backend systems that remove manual work — automation frameworks, REST APIs, and data pipelines that hold up at real scale. My Python scripts once eliminated manual intervention across an entire government service workflow. I like problems where "someone has to do this by hand every week" turns into "the script does it every night."
+I build backend systems that remove manual work — automation frameworks, REST APIs, and CI/CD pipelines that hold up at real scale. My Python scripts once eliminated manual intervention across an entire government service workflow. I like problems where "someone has to do this by hand every week" turns into "the script does it every night."
 
-Currently: Google Cloud–certified, sharpening cloud infrastructure skills, and open to Software Engineer / Cloud Engineer roles — remote-first, freelance-friendly.
+Currently: Sharpening cloud infrastructure skills, and open to Software Engineer / Cloud Engineer roles — remote, Hybrid, On-Site, freelance-friendly.
 
 ---
 
@@ -19,9 +19,9 @@ Currently: Google Cloud–certified, sharpening cloud infrastructure skills, and
 <img src="https://skillicons.dev/icons?i=python,postgres,gcp,git,github,bash,vscode" />
 
 **Languages & Tools:** Python · SQL · PostgreSQL · Shell Scripting · Git/GitHub\
-**Backend:** REST API design & integration, data pipelines, component-level software design\
+**Backend:** REST API design & integration, CI|CD pipelines, component-level software design\
 **Testing:** Pytest, unit testing\
-**Cloud:** Google Cloud Platform (GCP) — Certified\
+**Cloud:** Google Cloud Platform (GCP) — Certified, AWS Cloud Essential, IBM Cloud\
 **Practices:** Agile/Scrum, SDLC, requirements engineering, technical documentation
 
 ---
@@ -30,6 +30,8 @@ Currently: Google Cloud–certified, sharpening cloud infrastructure skills, and
 
 - Google IT Automation with Python
 - Google Cloud Computing Foundations & AI Essentials
+- AWS Cloud Essentials
+- IBM Cloud Computing 
 - CS50's Introduction to Programming with Python — Harvard University
 - Deloitte Australia — Technology Job Simulation
 - Cisco Python Essentials
