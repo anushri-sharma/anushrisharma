@@ -14,6 +14,9 @@ Currently: Sharpening cloud infrastructure skills, and open to Software Engineer
 
 ---
 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/669ad989-25ea-423d-99fa-32b6b793688f" />
+
+
 ### 🛠️ What I actually work with
 
 <img src="https://skillicons.dev/icons?i=python,postgres,gcp,git,github,bash,vscode" />
