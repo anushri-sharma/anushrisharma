@@ -14,8 +14,6 @@ Currently: Sharpening cloud infrastructure skills, and open to Software Engineer
 
 ---
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/669ad989-25ea-423d-99fa-32b6b793688f" />
-
 
 ### 🛠️ What I actually work with
 
@@ -24,7 +22,7 @@ Currently: Sharpening cloud infrastructure skills, and open to Software Engineer
 **Languages & Tools:** Python · SQL · PostgreSQL · Shell Scripting · Git/GitHub\
 **Backend:** REST API design & integration, CI|CD pipelines, component-level software design\
 **Testing:** Pytest, unit testing\
-**Cloud:** Google Cloud Platform (GCP) — Certified, AWS Cloud Essential, IBM Cloud\
+**Cloud:** Google Cloud Platform (GCP) , AWS Cloud Essential, IBM Cloud\
 **Practices:** Agile/Scrum, SDLC, requirements engineering, technical documentation
 
 ---
