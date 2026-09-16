@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Python+Developer;GCP+Certified+Cloud+Engineer;Backend+%26+Automation+Specialist;Open+to+Remote+%2F+Freelance+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Python+Developer;GCP;AWS;Cloud+Engineer;Backend+%26+Automation+Specialist;Open+to+Remote+%2F+Freelance+Work)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=anushri-sharma&color=1F3864&style=flat)
 
