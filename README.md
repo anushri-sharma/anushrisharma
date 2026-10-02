@@ -20,24 +20,24 @@ Currently: Sharpening cloud infrastructure skills, and open to Software Engineer
 
 <img src="https://skillicons.dev/icons?i=python,postgres,gcp,git,github,bash,vscode" />
 
-**Languages & Tools:** Python · SQL · PostgreSQL · Shell Scripting · Git/GitHub\
+**Cloud:** Google Cloud Platform(Cloud Storage, Virtual Machines, VPC) , AWS(EC2, S3, VPC), IBM Cloud\
+**Languages & Tools:** Python, SQL, PostgreSQL, Shell Scripting, Git/GitHub\
 **Backend:** REST API design & integration, CI|CD pipelines, component-level software design\
 **Testing:** Pytest, unit testing\
-**Cloud:** Google Cloud Platform (GCP) , AWS Cloud Essential, IBM Cloud\
-**Practices:** Agile/Scrum, SDLC, requirements engineering, technical documentation
+**Practices:** Agile/Scrum, SDLC, requirements engineering, technical documentation, Docker, Kubernetes, Terraform
 
 ---
 
 ### 🎓 Certifications
 
+- AWS Cloud Essentials
 - Google IT Automation with Python
 - Google Cloud Computing Foundations & AI Essentials
-- AWS Cloud Essentials
 - IBM Cloud Computing 
 - CS50's Introduction to Programming with Python — Harvard University
 - Deloitte Australia — Technology Job Simulation
 - Cisco Python Essentials
-- SQL for Data Science - Simplilearn
+- SQL for Data Science 
 - Google AI Essentials
 - Google Prompt Engineering
 
