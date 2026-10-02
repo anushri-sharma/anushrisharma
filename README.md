@@ -6,7 +6,7 @@
 
 </div>
 
-### 👋 Hey, I'm Anushri
+## 👋 Hey, I'm Anushri Sharma
 
 I build backend systems that remove manual work — automation frameworks, REST APIs, and CI/CD pipelines that hold up at real scale. My Python scripts once eliminated manual intervention across an entire government service workflow. I like problems where "someone has to do this by hand every week" turns into "the script does it every night."
 
