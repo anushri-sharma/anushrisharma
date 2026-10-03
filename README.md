@@ -21,7 +21,7 @@ Currently: Sharpening cloud infrastructure skills, and open to Software Engineer
 <img src="https://skillicons.dev/icons?i=python,postgres,gcp,git,github,bash,vscode" />
 
 **Cloud:** Google Cloud Platform(Cloud Storage, Virtual Machines, VPC) , AWS(EC2, S3, VPC), IBM Cloud\
-**Languages & Tools:** Python, SQL, PostgreSQL, Shell Scripting, Git/GitHub\
+**Languages & Tools:** Python, SQL, PostgreSQL, Shell Scripting, YAML, Git, GitHub\
 **Backend:** REST API design & integration, CI|CD pipelines, component-level software design\
 **Testing:** Pytest, unit testing\
 **Practices:** Agile/Scrum, SDLC, requirements engineering, technical documentation, Docker, Kubernetes, Terraform
