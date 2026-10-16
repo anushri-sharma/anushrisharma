@@ -49,6 +49,10 @@ Currently: Sharpening cloud infrastructure skills, and open to Software Engineer
 
 ## 🚀 Projects I'll actually stand behind
 
+**AWS Cloud Infrastructure & Monitoring Automation — In progress**
+
+**[Command Line Weather Dashboard](https://github.com/anushri-sharma/PyWeather)**
+
 **[Smart Resume ATS Checker](https://github.com/anushri-sharma/Smart-Resume-ATS-Checker)**
 Python-based applicant tracking tool that parses resumes and returns structured, actionable feedback on formatting and keyword alignment.
 
