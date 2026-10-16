@@ -22,11 +22,15 @@ Open to opportunities in Cloud Engineering, Cloud Support, AWS Cloud Engineer an
 
 <img src="https://skillicons.dev/icons?i=python,postgres,gcp,git,github,bash,vscode" />
 
-**Cloud:** Google Cloud Platform(Cloud Storage, Virtual Machines, VPC) , AWS(EC2, S3, VPC), IBM Cloud\
-**Languages & Tools:** Python, SQL, PostgreSQL, Shell Scripting, YAML, Git, GitHub\
+**Networking:** TCP/IP, DNS, HTTP/HTTPS, subnetting and routing fundamentals, security groups\
+**Troubleshooting:** Application and database troubleshooting, log investigation fundamentals, incident documentation\
+**Scripting:** Python, Bash, JSON, CSV\
+**Cloud:** Google Cloud Platform(Cloud Storage, Virtual Machines, VPC) , AWS(EC2, S3, VPC, IAM and CloudWatch concepts)\
 **Backend:** REST API design & integration, CI|CD pipelines, component-level software design\
-**Testing:** Pytest, unit testing\
-**Practices:** Agile/Scrum, SDLC, requirements engineering, technical documentation, Docker, Kubernetes, Terraform
+**Practices:** Agile/Scrum, SDLC\
+**Operating Systems:** Linux command line, Windows, system resource checks\
+**Databases:** PostgreSQL, SQL, MySQL\
+**Tools**: Git, GitHub, pytest, GitHub Actions and Terraform fundamentals
 
 ---
 
