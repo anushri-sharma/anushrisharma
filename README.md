@@ -7,11 +7,13 @@
 </div>
 
 # 👋 Hey, I'm Anushri Sharma
-### Aspiring Cloud Support Engineer | AWS ☁️ | Linux | Python | Cloud Monitoring & Automation | Building hands-on cloud projects and learning every day.
+### Cloud Engineer | AWS | Linux | Python Automation | Cloud Monitoring | Infrastructure & Operations | Building hands-on cloud projects and learning every day.
 
-I build backend systems that remove manual work — automation frameworks, REST APIs, and CI/CD pipelines that hold up at real scale. My Python scripts once eliminated manual intervention across an entire government service workflow. I like problems where "someone has to do this by hand every week" turns into "the script does it every night."
+Computer Science postgraduate building hands-on cloud projects focused on infrastructure automation, monitoring, troubleshooting, and operational reliability. Familiar with Python, Bash, Linux, Terraform, EC2, S3, IAM, VPC and CloudWatch concepts  with a background in software support, database administration, and application development.
 
-Currently: Sharpening cloud infrastructure skills, and open to Software Engineer / Cloud Engineer roles — remote, Hybrid, On-Site, freelance-friendly.
+Currently strengthening practical skills in AWS, Linux, CloudWatch, Terraform, and CI/CD while building cloud projects and documenting my learning journey.
+
+Open to opportunities in Cloud Engineering, Cloud Support, AWS Cloud Engineer and Cloud Operations — Remote, Hybrid, On-Site, freelance-friendly.
 
 ---
 
