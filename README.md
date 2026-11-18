@@ -11,7 +11,7 @@
 
 Computer Science postgraduate building hands-on cloud projects focused on infrastructure automation, monitoring, troubleshooting, and operational reliability. Familiar with Python, Bash, Linux, Terraform, EC2, S3, IAM, VPC and CloudWatch concepts  with a background in software support, database administration, and application development.
 
-Currently strengthening practical skills in AWS, Linux, CloudWatch, Terraform, and CI/CD while building cloud projects and documenting my learning journey.
+Currently strengthening practical skills in AWS, Linux, CloudWatch, CloudFormation, Terraform, and CI/CD while building cloud projects and documenting my learning journey.
 
 Open to opportunities in Cloud Engineering, Cloud Support, AWS Cloud Engineer and Cloud Operations — Remote, Hybrid, On-Site, freelance-friendly.
 
